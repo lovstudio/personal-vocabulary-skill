@@ -5,7 +5,7 @@ description: >
 license: MIT
 metadata:
   author: LovStudio / 手工川工作室
-  version: "0.1.0"
+  version: "0.1.1"
   card_standard: lovstudio/skill-card/v1
   tags:
     - vocabulary
@@ -16,7 +16,7 @@ metadata:
     - python
 ---
 
-# lov-sync-plan — 同步计划
+# 词库同步 · Vocabulary Sync
 
 比对规范词库与目标 App 的词条，给出**只读差异**，用户确认后再执行写入。默认不覆盖对方已有词条，避免把用户攒下的命中数据或自定义词清掉。
 

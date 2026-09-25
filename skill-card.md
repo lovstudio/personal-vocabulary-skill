@@ -1,4 +1,4 @@
-# Skill Card — lov-personal-vocabulary
+# 我的词库 · My Vocabulary · Skill Card
 
 This human-readable card mirrors `skill-card.yaml`. It is a release record, not
 an implementation note. A reviewer should understand the Skill without opening
@@ -46,7 +46,7 @@ JSON 规范词汇表、各 App 格式词库文件、同步差异计划（add/ski
 
 ## Skill Version
 
-0.1.0
+0.2.1
 
 ## Ethical Considerations
 
